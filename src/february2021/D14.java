@@ -28,6 +28,10 @@ public class D14 {
 		return res;
 	}
 
+	// Bonus: Can you do this in one pass? 
+	
+	// I think it is already done, O(n) complexity.
+
 	public static void main(String[] args) {
 
 		int[] numeros = new int[] { 1, 2, 8, 3, 1, 2, 3, 4, 2, 2, 1, 2, 4, 1, 1, 123, 123, 123, 123, 6, 3, 2, 2, 1, 21,
