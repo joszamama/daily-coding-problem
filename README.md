@@ -1,2 +1,8 @@
 # daily-coding-problem
-Everyday Daily Coding Problem https://www.dailycodingproblem.com and my personal solution
+Daily Coding Problem and my own solution
+
+https://www.dailycodingproblem.com 
+
+#TODO
+- D16 Feb21
+- D17 Feb21
